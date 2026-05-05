@@ -1,4 +1,3 @@
-
 Prompt to convert a Research Paper into Slides:
 I am uploading a research paper in PDF format.
 Your task is to act as a world-class presentation strategist, research analyst, and slide communication expert.
